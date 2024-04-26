@@ -6,7 +6,7 @@ the [`mirascope`](https://github.com/Mirascope/mirascope) open-source library. I
 
 ### 🌱 I’m currently learning ...
 
-how to build a Chrome Extension. If you have any suggestions for awesome tooling that makes this easier, let me know!
+Rust!
 
 ### 💬 Ask me about ...
 
