@@ -2,15 +2,17 @@
 
 ### 🔭 I’m currently working on ...
 
-the [`mirascope`](https://github.com/Mirascope/mirascope) open-source library. I'm hoping to make the most (in my opinion :smile:) delightful and pythonic tools for building LLM applications. The library is in it's infancy, so any and all help, feedback, and suggestions are welcome with open arms!
+- [`mirascope`](https://github.com/Mirascope/mirascope) -- an attempt to build the standardized interface for developing with LLMs
+- [`lilypad`](https://github.com/Mirascope/lilypad) -- version control, observability, and testing for the LLM era
+- [`mcp-community`](https://github.com/Mirascope/mcp-community) -- a community centered around open-source MCP servers and clients
 
 ### 🌱 I’m currently learning ...
 
-Rust!
+rust! albeit slowly...
 
 ### 💬 Ask me about ...
 
-bananas. I love bananas. And their lore...
+bananas. I love bananas (as well as other berries)
 
 ### ⚡ Fun fact:
 
